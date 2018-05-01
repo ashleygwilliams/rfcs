@@ -112,8 +112,8 @@ This proposal seeks to provide symmetry with the `build.rs`  feature. The abilit
 
 ## Related RFCs and issues:
 
-- https://github.com/rust-lang/cargo/issues/545
-- https://github.com/rust-lang/cargo/issues/2386
-- https://github.com/rust-lang/cargo/issues/2729
-- https://github.com/rust-lang/rfcs/pull/2196
-- https://github.com/rust-lang/rfcs/pull/1200
+- https://github.com/rust-lang/cargo/issues/545 - "Post-build script execution"
+- https://github.com/rust-lang/cargo/issues/2386 - "Add an install.rs that lets a file perform installation setup, as well as a permanent installation outdir"
+- https://github.com/rust-lang/cargo/issues/2729 - "Support installing manpages (and potentially other files)"
+- https://github.com/rust-lang/rfcs/pull/2196 - "metabuild: semantic build scripts for Cargo" (merged)
+- https://github.com/rust-lang/rfcs/pull/1200 - "RFC: Add `cargo install`" (merged)
